@@ -1,0 +1,12 @@
+﻿<Window
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	x:Class="MultiDisplayVideoViewer.FullScreen"
+	x:Name="fullScreenApp"
+	Title="FullScreen"
+	Width="640" Height="480" WindowStyle="None" Loaded="Window_Loaded">
+
+	<Grid x:Name="LayoutRoot">
+        <MediaElement Name="mediaElement1" LoadedBehavior="Manual" MediaEnded="mediaElement1_MediaEnded" />
+    </Grid>
+</Window>

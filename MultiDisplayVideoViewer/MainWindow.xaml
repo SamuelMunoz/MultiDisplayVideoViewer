@@ -1,0 +1,79 @@
+﻿<Window
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d"
+	x:Class="MultiDisplayVideoViewer.MainWindow"
+	x:Name="Window"
+	Title="MultiDisplay Video Viewer 0.8b"
+	Width="640" Height="480" WindowStyle="SingleBorderWindow" Background="#FFD7E4C7" WindowStartupLocation="CenterScreen" Closed="Window_Closed">
+
+	<Grid x:Name="LayoutRoot">
+		<Label Content="Bienvenidos a MultiDisplay Video Viewer" Margin="12,20,11.033,0" VerticalAlignment="Top" FontSize="29.333" FontFamily="SketchFlow Print" Background="{x:Null}" d:LayoutOverrides="Width" FontStretch="Normal" HorizontalContentAlignment="Center">
+			<Label.Effect>
+				<DropShadowEffect BlurRadius="7" Direction="316" Opacity="0.925" ShadowDepth="9"/>
+			</Label.Effect>
+		</Label>
+		<GroupBox Header="Lista de Archivos" Margin="12,110,109.303,118.04">
+			<ListBox Name="lstListaReproducción" />
+		</GroupBox>
+		<TextBox Margin="12,84.04,109.303,0" TextWrapping="Wrap" VerticalAlignment="Top" Name="txtArchivos" MouseDoubleClick="txtArchivos_MouseDoubleClick" />
+		<Label Content="Seleccione el archivo (doble click en la caja de texto):" HorizontalAlignment="Left" Margin="8,58.08,0,0" VerticalAlignment="Top"/>
+		<Button Content="Agregar a la lista" HorizontalAlignment="Right" Margin="0,84.04,8,0" VerticalAlignment="Top" Width="97.303" Click="Button_Click" Name="btnAddList">
+			<Button.Background>
+				<LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+					<GradientStop Color="#FFF3F3F3" Offset="0"/>
+					<GradientStop Color="#FFEBEBEB" Offset="0.5"/>
+					<GradientStop Color="#FFDDDDDD" Offset="0.5"/>
+					<GradientStop Color="#FFD0D8E4" Offset="1"/>
+				</LinearGradientBrush>
+			</Button.Background>
+		</Button>
+		<Button Content="Quitar Elemento" HorizontalAlignment="Right" Margin="0,180,8,0" VerticalAlignment="Top" Width="97.303" Name="btnBorrar" Click="btnBorrar_Click">
+			<Button.Background>
+				<LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+					<GradientStop Color="#FFF3F3F3" Offset="0"/>
+					<GradientStop Color="#FFEBEBEB" Offset="0.5"/>
+					<GradientStop Color="#FFDDDDDD" Offset="0.5"/>
+					<GradientStop Color="#FFD0D8E4" Offset="1"/>
+				</LinearGradientBrush>
+			</Button.Background>
+		</Button>
+		<Button Content="Limpiar Lista" HorizontalAlignment="Right" Margin="0,0,8,198.08" Width="97.303" VerticalAlignment="Bottom" Name="btnLimpiar" Click="btnLimpiar_Click">
+			<Button.Background>
+				<LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+					<GradientStop Color="#FFF3F3F3" Offset="0"/>
+					<GradientStop Color="#FFEBEBEB" Offset="0.5"/>
+					<GradientStop Color="#FFDDDDDD" Offset="0.5"/>
+					<GradientStop Color="#FFD0D8E4" Offset="1"/>
+				</LinearGradientBrush>
+			</Button.Background>
+		</Button>
+		<Button Content="Reproducir" Margin="146,0,0,59" VerticalAlignment="Bottom" FontSize="26.667" Name="btnPlayList" HorizontalAlignment="Left" Width="151" Click="btnPlayList_Click">
+			<Button.Background>
+				<LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+					<GradientStop Color="#FFF3F3F3" Offset="0"/>
+					<GradientStop Color="#FFEBEBEB" Offset="0.5"/>
+					<GradientStop Color="#FFDDDDDD" Offset="0.5"/>
+					<GradientStop Color="#FFD0D8E4" Offset="1"/>
+				</LinearGradientBrush>
+			</Button.Background>
+		</Button>
+        <Image HorizontalAlignment="Right" Height="34" Margin="0,0,11.033,8" VerticalAlignment="Bottom" Width="34" Source="1317083095_info_blue.png" MouseDown="Image_MouseDown" />
+        <Button Content="Detener" FontSize="26.667" Margin="0,0,150,59" Name="btnStopList" VerticalAlignment="Bottom" HorizontalAlignment="Right" Width="151" Click="btnStopList_Click">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                    <GradientStop Color="#FFF3F3F3" Offset="0" />
+                    <GradientStop Color="#FFEBEBEB" Offset="0.5" />
+                    <GradientStop Color="#FFDDDDDD" Offset="0.5" />
+                    <GradientStop Color="#FFD0D8E4" Offset="1" />
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <Button Height="37" Margin="222,0,0,12" Name="btnRetroceder" VerticalAlignment="Bottom" HorizontalAlignment="Left" Width="75" Click="btnRetroceder_Click">
+            <Image Source="/MultiDisplayVideoViewer;component/Images/1317840280_8.png" Width="35" />
+        </Button>
+        <Button Height="37" HorizontalAlignment="Right" Margin="0,0,226,12" Name="btnAvanzar" VerticalAlignment="Bottom" Width="75" Click="btnAvanzar_Click">
+            <Image Source="/MultiDisplayVideoViewer;component/Images/1317840278_7.png" Width="35" />
+        </Button>
+    </Grid>
+</Window>

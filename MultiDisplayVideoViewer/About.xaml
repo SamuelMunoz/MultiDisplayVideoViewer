@@ -1,0 +1,14 @@
+﻿<Window x:Class="MultiDisplayVideoViewer.About"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="About" Height="300" Width="300" WindowStyle="ToolWindow" WindowStartupLocation="CenterScreen">
+    <Grid MouseDown="Grid_MouseDown">
+        <TextBlock Height="23" HorizontalAlignment="Left" Margin="36,208,0,0" Name="textBlock1" Text="(c) 2011, Darisoft! Derechos reservados" VerticalAlignment="Top" />
+        <Image Height="140" HorizontalAlignment="Left" Margin="68,62,0,0" Name="image1" Stretch="Fill" VerticalAlignment="Top" Width="143" Source="/MultiDisplayVideoViewer;component/Images/1317414848_Next.png" />
+        <Label Background="{x:Null}" Content="MultiDisplay Video Viewer 0.8b" FontFamily="SketchFlow Print" FontSize="16" Margin="10,10,12,0" VerticalAlignment="Top" HorizontalContentAlignment="Center">
+            <Label.Effect>
+                <DropShadowEffect BlurRadius="7" Direction="316" Opacity="0.925" ShadowDepth="9" />
+            </Label.Effect>
+        </Label>
+    </Grid>
+</Window>

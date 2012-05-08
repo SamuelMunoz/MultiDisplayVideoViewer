@@ -1,0 +1,5 @@
+[Multi Display Video Viewer]
+
+This is a test app for displaying a video in a second screen (HDTV, monitor, projector, etc.).
+
+Built with WPF in Visual Studio 2010 (code) and Expression Blender 4 (UI).

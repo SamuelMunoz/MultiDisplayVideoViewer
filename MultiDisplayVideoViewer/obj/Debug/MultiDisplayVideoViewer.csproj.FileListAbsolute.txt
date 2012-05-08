@@ -1,0 +1,50 @@
+C:\Users\SAYLI\Documents\Expression\Blend 4\Projects\MultiDisplayVideoViewer\MultiDisplayVideoViewer\bin\Debug\MultiDisplayVideoViewer.exe
+C:\Users\SAYLI\Documents\Expression\Blend 4\Projects\MultiDisplayVideoViewer\MultiDisplayVideoViewer\bin\Debug\MultiDisplayVideoViewer.pdb
+C:\Users\SAYLI\Documents\Expression\Blend 4\Projects\MultiDisplayVideoViewer\MultiDisplayVideoViewer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\SAYLI\Documents\Expression\Blend 4\Projects\MultiDisplayVideoViewer\MultiDisplayVideoViewer\obj\Debug\MainWindow.baml
+C:\Users\SAYLI\Documents\Expression\Blend 4\Projects\MultiDisplayVideoViewer\MultiDisplayVideoViewer\obj\Debug\Simple Styles.baml
+C:\Users\SAYLI\Documents\Expression\Blend 4\Projects\MultiDisplayVideoViewer\MultiDisplayVideoViewer\obj\Debug\App.baml
+C:\Users\SAYLI\Documents\Expression\Blend 4\Projects\MultiDisplayVideoViewer\MultiDisplayVideoViewer\obj\Debug\MainWindow.g.cs
+C:\Users\SAYLI\Documents\Expression\Blend 4\Projects\MultiDisplayVideoViewer\MultiDisplayVideoViewer\obj\Debug\App.g.cs
+C:\Users\SAYLI\Documents\Expression\Blend 4\Projects\MultiDisplayVideoViewer\MultiDisplayVideoViewer\obj\Debug\MultiDisplayVideoViewer_MarkupCompile.cache
+C:\Users\SAYLI\Documents\Expression\Blend 4\Projects\MultiDisplayVideoViewer\MultiDisplayVideoViewer\obj\Debug\MultiDisplayVideoViewer.g.resources
+C:\Users\SAYLI\Documents\Expression\Blend 4\Projects\MultiDisplayVideoViewer\MultiDisplayVideoViewer\obj\Debug\MultiDisplayVideoViewer.exe
+C:\Users\SAYLI\Documents\Expression\Blend 4\Projects\MultiDisplayVideoViewer\MultiDisplayVideoViewer\obj\Debug\MultiDisplayVideoViewer.pdb
+C:\Users\SAYLI\Documents\Expression\Blend 4\Projects\MultiDisplayVideoViewer\MultiDisplayVideoViewer\obj\Debug\FullScreen.baml
+C:\Users\SAYLI\Documents\Expression\Blend 4\Projects\MultiDisplayVideoViewer\MultiDisplayVideoViewer\obj\Debug\FullScreen.g.cs
+C:\Users\SAYLI\Documents\Expression\Blend 4\Projects\MultiDisplayVideoViewer\MultiDisplayVideoViewer\obj\Debug\About.baml
+C:\Users\SAYLI\Documents\Expression\Blend 4\Projects\MultiDisplayVideoViewer\MultiDisplayVideoViewer\obj\Debug\About.g.cs
+E:\Expression\Blend 4\Projects\MultiDisplayVideoViewer\MultiDisplayVideoViewer\obj\Debug\MultiDisplayVideoViewer.exe
+E:\Expression\Blend 4\Projects\MultiDisplayVideoViewer\MultiDisplayVideoViewer\obj\Debug\MultiDisplayVideoViewer.pdb
+E:\Expression\Blend 4\Projects\MultiDisplayVideoViewer\MultiDisplayVideoViewer\bin\Debug\MultiDisplayVideoViewer.exe
+E:\Expression\Blend 4\Projects\MultiDisplayVideoViewer\MultiDisplayVideoViewer\bin\Debug\MultiDisplayVideoViewer.pdb
+E:\Expression\Blend 4\Projects\MultiDisplayVideoViewer\MultiDisplayVideoViewer\obj\Debug\ResolveAssemblyReference.cache
+E:\Expression\Blend 4\Projects\MultiDisplayVideoViewer\MultiDisplayVideoViewer\obj\Debug\About.baml
+E:\Expression\Blend 4\Projects\MultiDisplayVideoViewer\MultiDisplayVideoViewer\obj\Debug\FullScreen.baml
+E:\Expression\Blend 4\Projects\MultiDisplayVideoViewer\MultiDisplayVideoViewer\obj\Debug\MainWindow.baml
+E:\Expression\Blend 4\Projects\MultiDisplayVideoViewer\MultiDisplayVideoViewer\obj\Debug\Simple Styles.baml
+E:\Expression\Blend 4\Projects\MultiDisplayVideoViewer\MultiDisplayVideoViewer\obj\Debug\App.baml
+E:\Expression\Blend 4\Projects\MultiDisplayVideoViewer\MultiDisplayVideoViewer\obj\Debug\About.g.cs
+E:\Expression\Blend 4\Projects\MultiDisplayVideoViewer\MultiDisplayVideoViewer\obj\Debug\FullScreen.g.cs
+E:\Expression\Blend 4\Projects\MultiDisplayVideoViewer\MultiDisplayVideoViewer\obj\Debug\MainWindow.g.cs
+E:\Expression\Blend 4\Projects\MultiDisplayVideoViewer\MultiDisplayVideoViewer\obj\Debug\App.g.cs
+E:\Expression\Blend 4\Projects\MultiDisplayVideoViewer\MultiDisplayVideoViewer\obj\Debug\MultiDisplayVideoViewer_MarkupCompile.cache
+E:\Expression\Blend 4\Projects\MultiDisplayVideoViewer\MultiDisplayVideoViewer\obj\Debug\MultiDisplayVideoViewer.g.resources
+C:\Users\Usuario\Desktop\MultiDisplayVideoViewer\MultiDisplayVideoViewer\obj\Debug\MultiDisplayVideoViewer.exe
+C:\Users\Usuario\Desktop\MultiDisplayVideoViewer\MultiDisplayVideoViewer\obj\Debug\MultiDisplayVideoViewer.pdb
+C:\Users\Usuario\Desktop\MultiDisplayVideoViewer\MultiDisplayVideoViewer\bin\Debug\MultiDisplayVideoViewer.exe
+C:\Users\Usuario\Desktop\MultiDisplayVideoViewer\MultiDisplayVideoViewer\bin\Debug\MultiDisplayVideoViewer.pdb
+C:\Users\Usuario\Desktop\MultiDisplayVideoViewer\MultiDisplayVideoViewer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\MultiDisplayVideoViewer\MultiDisplayVideoViewer\obj\Debug\About.baml
+C:\Users\Usuario\Desktop\MultiDisplayVideoViewer\MultiDisplayVideoViewer\obj\Debug\FullScreen.baml
+C:\Users\Usuario\Desktop\MultiDisplayVideoViewer\MultiDisplayVideoViewer\obj\Debug\MainWindow.baml
+C:\Users\Usuario\Desktop\MultiDisplayVideoViewer\MultiDisplayVideoViewer\obj\Debug\Simple Styles.baml
+C:\Users\Usuario\Desktop\MultiDisplayVideoViewer\MultiDisplayVideoViewer\obj\Debug\App.baml
+C:\Users\Usuario\Desktop\MultiDisplayVideoViewer\MultiDisplayVideoViewer\obj\Debug\About.g.cs
+C:\Users\Usuario\Desktop\MultiDisplayVideoViewer\MultiDisplayVideoViewer\obj\Debug\FullScreen.g.cs
+C:\Users\Usuario\Desktop\MultiDisplayVideoViewer\MultiDisplayVideoViewer\obj\Debug\MainWindow.g.cs
+C:\Users\Usuario\Desktop\MultiDisplayVideoViewer\MultiDisplayVideoViewer\obj\Debug\App.g.cs
+C:\Users\Usuario\Desktop\MultiDisplayVideoViewer\MultiDisplayVideoViewer\obj\Debug\MultiDisplayVideoViewer_MarkupCompile.cache
+C:\Users\Usuario\Desktop\MultiDisplayVideoViewer\MultiDisplayVideoViewer\obj\Debug\MultiDisplayVideoViewer.g.resources
+C:\Users\SAYLI\Documents\Visual Studio 2010\Projects\MultiDisplayVideoViewer\MultiDisplayVideoViewer\obj\Debug\MultiDisplayVideoViewer.exe
+C:\Users\SAYLI\Documents\Visual Studio 2010\Projects\MultiDisplayVideoViewer\MultiDisplayVideoViewer\obj\Debug\MultiDisplayVideoViewer.pdb
